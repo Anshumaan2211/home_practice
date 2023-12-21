@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="163e7582-ea79-40f0-9afb-5ef82f20be5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/practice_1.java" afterDir="false" />
+    <list default="true" id="163e7582-ea79-40f0-9afb-5ef82f20be5f" name="Changes" comment="practice homework">
+      <change afterPath="$PROJECT_DIR$/src/practice_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/home_practice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +39,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.home_practice.executor": "Run",
     "Application.practice_1.executor": "Run",
+    "Application.practice_2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
@@ -49,6 +49,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "D:/Anshuman work/Java/home_practice/src/Main.java",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -69,8 +70,18 @@
       <updated>1702893525936</updated>
       <workItem from="1702893526954" duration="1126000" />
       <workItem from="1702994201296" duration="2018000" />
-      <workItem from="1703002277520" duration="6517000" />
+      <workItem from="1703002277520" duration="6595000" />
+      <workItem from="1703178440821" duration="4133000" />
     </task>
+    <task id="LOCAL-00001" summary="practice homework">
+      <option name="closed" value="true" />
+      <created>1703009263373</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703009263373</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +112,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="practice homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice homework" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -112,5 +125,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
